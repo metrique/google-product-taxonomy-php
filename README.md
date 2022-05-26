@@ -2,7 +2,7 @@
 
 A PHP library providing Google Product Category data.
 
-![License](https://img.shields.io/github/license/metrique/google-product-category-php.svg)
+![License](https://img.shields.io/github/license/metrique/google-product-taxonomy-php.svg)
 
 ## What is Google Product Category Data?
 
