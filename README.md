@@ -13,7 +13,7 @@ Google Product Category data is a library containing a copy of Google's continuo
 ## Installing
 
 ``` sh
-composer require metrique/google-product-category-php
+composer require metrique/google-product-taxonomy-php
 ```
 
 ## Using
