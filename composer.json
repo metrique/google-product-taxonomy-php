@@ -1,5 +1,5 @@
 {
-    "name": "metrique/google-taxonomy-php",
+    "name": "metrique/google-product-taxonomy-php",
     "description": "A PHP library providing Google product category data.",
     "type": "library",
     "keywords": ["google", "product", "category", "categories", "taxonomy", "taxonomies"],
